@@ -1,5 +1,5 @@
 #game-area {
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     border: 2px solid #000;
     height: 500px;
     position: relative;
@@ -24,7 +24,7 @@
 
 
 .menu{
-    background-color: rgb(205, 204, 202);
+    background-color: rgb(225, 224, 221);
     margin: 0 1rem 0 0;
     border: solid black 2px;
 }
